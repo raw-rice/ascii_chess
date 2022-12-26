@@ -45,6 +45,7 @@ void draw(std::string pos)
 int main()
 {
 	std::string pos = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR";
+	//std::string pos = "r3b/8/8/8/8/8/8/8/8";
 	draw(pos);
 	return 0;
 }
